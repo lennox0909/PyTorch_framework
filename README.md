@@ -12,3 +12,9 @@
   
 - Datasets
   1. [TORCHVISION.DATASETS](https://pytorch.org/docs/stable/torchvision/datasets.html)
+  
+# Learn from Book
+**《深度學習框架PyTorch：入門與實踐》**
+
+Tutorial code:
+https://github.com/chenyuntc/pytorch-book
